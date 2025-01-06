@@ -45,16 +45,10 @@ Upon running the notebooks, the following files are generated:
    cd FineTuning-and-Inference-NLP
    ```
 
-2. **Install Dependencies**:
-   Install the required Python packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run Task 1 Notebook**:
+2. **Run Task 1 Notebook**:
    Open `task1.ipynb` in Jupyter Notebook or any supported environment, and execute the cells sequentially to fine-tune the BERT model and perform zero-shot inference using BLOOMZ.
 
-4. **Run Task 2 Notebook**:
+3. **Run Task 2 Notebook**:
    Similarly, open `task2.ipynb` and execute the cells to repeat the process for power identification.
 
 ## Results
